@@ -40,17 +40,41 @@ We ended up only using one potentiometer for the first circuit. We used the 10k&
 
 Circuit One:
 
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
+</p>
+
 Circuit Two:
 
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
+</p>
+
 Circuit Three:
+
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
+</p>
 
 ### Part Two:
 
 Circuit Four:
 
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
+</p>
+
 Circuit Five:
+ 
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
+</p>
 
 Circuit Six:
+
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
+</p>
 
 ## Results:
 
