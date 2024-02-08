@@ -91,15 +91,48 @@ Circuit Six: Differentiating Op Amp
 
 Circuit One:
 
+
 Circuit Two:
 
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%201%20lab%204.png">
+</p>
+
 Circuit Three:
+
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%203%20lab%204.png">
+</p>
 
 ### Part Two:
 
 Circuit Four:
 
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%204%20lab%204.png">
+</p>
+
 Circuit Five:
+
+10kHz
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%205%20lab%204%2010kHz.png">
+</p>
+
+Sine Wave
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%205%20lab%204%20sine.png">
+</p>
+
+Square Wave
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%205%20lab%204%20square.png">
+</p>
+
+Triangle Wave
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%205%20lab%204%20triangle.png">
+</p>
 
 Circuit Six:
 
