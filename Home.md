@@ -38,19 +38,27 @@ We ended up only using one potentiometer for the first circuit. We used the 10k&
 
 ### Part One:
 
-Circuit One:
+Circuit One: Unity Gain Inverting Op Amp
 
 <p align="center">
   <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
 </p>
 
-Circuit Two:
+Build the above unity gain inverting op amp with the 10k&Omega; potentiometer on the bread board. Connect to the two DCPS. While changing the resistance of the potentiometer, measure the Vo and the Vi at the labeled points in the circuit using the DMM. Swing the potentiometer from low to high resistance while recording the Vo and Vi values. We show our measured values and a plot of the measured value in our results.
+
+Circuit Two: Moderate Gain Inverting Op Amp
+
+Next, we constructed a moderate gain inverting op amp using different resistance values (8.2 k&Omega; and 330 k&Omega;) and connected it to two DCPS.
 
 <p align="center">
   <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
 </p>
 
-Circuit Three:
+Instead of using a potentiometer and the DMM to measure Vo and Vi values, we connected this circuit to the function generator and oscilloscope. We plotted Vi in channel one and Vo in channel two. From the oscilloscope, we could then measure and calculate the gain of the circuit. 
+
+Circuit Three: High Gain Inverting Op Amp
+
+Next. build a high gain inverting op amp on the bread board by using the 1k&Omega; and 1.5M&Omega; resistors. Connect this circuit to the DCPS along with the function generator and oscilloscope to measure and calculate the gain. 
 
 <p align="center">
   <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
@@ -58,19 +66,19 @@ Circuit Three:
 
 ### Part Two:
 
-Circuit Four:
+Circuit Four: Voltage Follower
 
 <p align="center">
   <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
 </p>
 
-Circuit Five:
+Circuit Five: Integrating Op Amp
  
 <p align="center">
   <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
 </p>
 
-Circuit Six:
+Circuit Six: Differentiating Op Amp
 
 <p align="center">
   <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
@@ -96,6 +104,21 @@ Circuit Five:
 Circuit Six:
 
 ## Discussion Questions:
+
+### Part One:
+
+Compare the performance of each amplifier circuit to its expected theoretical performance with
+regard to gain.
+
+Comment on the limits of op amp circuits with respect to maximum output voltage.
+
+Are the LM741 op amps symmetric i.e. does the positive voltage performance equal the
+negative voltage performance?
+
+### Part Two:
+
+Did the integrating and differentiating circuits perform the mathematical operations expected?
+Explain
 
 ## Conclusions:
 
