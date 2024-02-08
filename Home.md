@@ -54,5 +54,22 @@ Circuit Six:
 
 ## Results:
 
+
+### Part One:
+
+Circuit One:
+
+Circuit Two:
+
+Circuit Three:
+
+### Part Two:
+
+Circuit Four:
+
+Circuit Five:
+
+Circuit Six:
+
 ## Conclusions:
 
