@@ -95,5 +95,7 @@ Circuit Five:
 
 Circuit Six:
 
+## Discussion Questions:
+
 ## Conclusions:
 
