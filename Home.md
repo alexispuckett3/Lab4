@@ -121,7 +121,7 @@ Measured Vi VS Vo Values:
 
 | Expected Gain (Calculated) | Actual Gain (Measured) |
 |:---:|---|
-|   |     |
+|  -1 |   -0.997  |
 
 
 _Circuit Two_:
