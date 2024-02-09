@@ -77,13 +77,13 @@ Circuit Four: Voltage Follower
 Circuit Five: Integrating Op Amp
  
 <p align="center">
-  <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/5-4.png">
 </p>
 
 Circuit Six: Differentiating Op Amp
 
 <p align="center">
-  <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/6-4.png">
 </p>
 
 ## Results:
