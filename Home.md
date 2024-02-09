@@ -137,6 +137,21 @@ Triangle Wave
 
 Circuit Six:
 
+Sine Wave
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%206%20lab%204%20sine.png">
+</p>
+
+Square Wave
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/Circuit%206%20lab%204%20square.png">
+</p>
+
+Triangle Wave
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%206%20lab%204%20triangle.png">
+</p>
+
 ## Discussion Questions:
 
 ### Part One:
