@@ -164,6 +164,9 @@ Comment on the limits of op amp circuits with respect to maximum output voltage.
 Are the LM741 op amps symmetric i.e. does the positive voltage performance equal the
 negative voltage performance?
 
+
+Yes, the positive voltage performance is equal to the negative voltage performance. 
+
 ### Part Two:
 
 Did the integrating and differentiating circuits perform the mathematical operations expected?
