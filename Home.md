@@ -215,6 +215,8 @@ How do these show it is differentiating?
 
 **Comment on the limits of op amp circuits with respect to maximum output voltage.**
 
+An ideal op-amp can output any voltage. Although in a real op-amp, it is limited to what the output can deliver. These limits are usually right around the positive and negative power supply voltages. Output voltage is limited to the maximum and minimum voltage from the power supply. 
+
 **Are the LM741 op amps symmetric i.e. does the positive voltage performance equal the**
 **negative voltage performance?**
 
