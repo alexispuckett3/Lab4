@@ -8,6 +8,7 @@ February 8, 2024
 ## Project Summary:
 
 In this lab the goal was to learn the importance and use of operational amplifiers (Op Amps). The importance of this is to be able to build amplifier and signal conditioning circuits as well as be able to understand the usage of Op Amps such as their benefits and drawbacks. In order to test this, a series of circuits were constructed. The variables that were used and tested included an LM741 Op Amp and a 1kOhm trimmer potentiometer. We used these variables as others, such as a variety of resistors, to create different Inverting Op Amp circuits, voltage follower circuits, integrating Op Amp, and differentiating Op Amp in order to observe the gain in each circuit. These steps and measurements allowed us to better understand these circuits and learn more about Op Amps. 
+
 ## Design/Methods:
 
 For this lab we needed:
@@ -40,7 +41,7 @@ We ended up only using one potentiometer for the first circuit. We used the 10k&
 
 ### Part One:
 
-Circuit One: Unity Gain Inverting Op Amp
+_Circuit One_: Unity Gain Inverting Op Amp
 
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/1-4.png">
@@ -48,7 +49,7 @@ Circuit One: Unity Gain Inverting Op Amp
 
 Build the above unity gain inverting op amp with the 10k&Omega; potentiometer on the bread board. Connect to the two DCPS. While changing the resistance of the potentiometer, measure the Vo and the Vi at the labeled points in the circuit using the DMM. Swing the potentiometer from low to high resistance while recording the Vo and Vi values. We show our measured values and a plot of the measured value in our results.
 
-Circuit Two: Moderate Gain Inverting Op Amp
+_Circuit Two_: Moderate Gain Inverting Op Amp
 
 Next, we constructed a moderate gain inverting op amp using different resistance values (8.2 k&Omega; and 330 k&Omega;) and connected it to two DCPS.
 
@@ -58,7 +59,7 @@ Next, we constructed a moderate gain inverting op amp using different resistance
 
 Instead of using a potentiometer and the DMM to measure Vo and Vi values, we connected this circuit to the function generator and oscilloscope. We plotted Vi in channel one and Vo in channel two. From the oscilloscope, we could then measure and calculate the gain of the circuit. 
 
-Circuit Three: High Gain Inverting Op Amp
+_Circuit Three_: High Gain Inverting Op Amp
 
 Next. build a high gain inverting op amp on the bread board by using the 1k&Omega; and 1.5M&Omega; resistors. Connect this circuit to the DCPS along with the function generator and oscilloscope to measure and calculate the gain. 
 
@@ -68,7 +69,7 @@ Next. build a high gain inverting op amp on the bread board by using the 1k&Omeg
 
 ### Part Two:
 
-Circuit Four: Voltage Follower
+_Circuit Four_: Voltage Follower
 
 Build the voltage follower circuit in the bread board pictured below. Connect the circuit to the two DCPS, the function generator, and the oscilloscope. 
 
@@ -78,7 +79,7 @@ Build the voltage follower circuit in the bread board pictured below. Connect th
 
 Check to see that the input and output voltage are the same. Then, increase the frequency to see find what the frequency limit is for the 741 op amp. 
 
-Circuit Five: Integrating Op Amp
+_Circuit Five_: Integrating Op Amp
  
 Next, build the integrating op amp displayed below on the bread board. 
 
@@ -88,7 +89,7 @@ Next, build the integrating op amp displayed below on the bread board.
 
 Connect the circuit to the two DCPS, the function generator, and the oscilloscope. Change the shape of the waves along with the frequency using the function generator to observe what happens. 
 
-Circuit Six: Differentiating Op Amp
+_Circuit Six_: Differentiating Op Amp
 
 Finally, create the differentiating op amp displayed below. 
 
@@ -103,7 +104,7 @@ Connect the circuit to the two DCPS, the function generator, and the oscilloscop
 
 ### Part One:
 
-Circuit One:
+_Circuit One_:
 
 Measured Vi VS Vo Values:
 | Vi (Volts) | Vo (Volts)|
@@ -123,7 +124,7 @@ Measured Vi VS Vo Values:
 |   |     |
 
 
-Circuit Two:
+_Circuit Two_:
 
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%201%20lab%204.png">
@@ -133,7 +134,7 @@ Circuit Two:
 |:---:|---|
 |   |     |
 
-Circuit Three:
+_Circuit Three_:
 
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/3-4.png">
@@ -145,7 +146,7 @@ Circuit Three:
 
 ### Part Two:
 
-Circuit Four:
+_Circuit Four_:
 
 The input (Vi) and output (Vo) voltages were seen to be the same. 
 Vi=12.8V
@@ -160,7 +161,7 @@ Oscilloscope Reading of Voltage Follower Circuit:
 </p>
 We can see from the oscilloscope that there is no change between Vi and Vo, the waves overlap. 
 
-Circuit Five:
+_Circuit Five_:
 
 Change the voltage and frequency and note any differences: 
 As frequency increases, Vo decreases and Vi stays the same around 12.2V. As the frequency decreases, Vo increases and Vi decreases.
@@ -186,7 +187,7 @@ Triangle Wave
 </p>
 How do these show it is integrating?
 
-Circuit Six:
+_Circuit Six_:
 
 Change the voltage and frequency and note any differences.
 
