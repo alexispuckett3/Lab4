@@ -165,6 +165,8 @@ This shows that the gain=1 because there is no change between the input and outp
 
 Increase the frequency to find out and record what the frequency limit is for the 741 op amp. 
 
+frequency limit is 1 MHz
+
 Oscilloscope Reading of Voltage Follower Circuit:
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%204%20lab%204.png">
