@@ -135,12 +135,24 @@ Circuit Three:
 
 Circuit Four:
 
+The input (Vi) and output (Vo) voltages were seen to be the same. 
+Vi=12.8V
+Vo=12.8V
+This shows that the gain=1 because there is no change between the input and output voltages in this op amp circuit. 
+
+Increase the frequency to find out and record what the frequency limit is for the 741 op amp. 
+
+Oscilloscope Reading of Voltage Follower Circuit:
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%204%20lab%204.png">
 </p>
+We can see from the oscilloscope that there is no change between Vi and Vo, the waves overlap. 
 
 Circuit Five:
 
+Change the voltage and frequency and note any differences: 
+As frequency increases, Vo decreases and Vi stays the same around 12.2V. As the frequency decreases, Vo increases and Vi decreases.
+As the voltage supplied by the voltage source decreases, both Vo and Vi decrease. As the voltage supplied increases, both Vo and Vi increase. 
 10kHz
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%205%20lab%204%2010kHz.png">
@@ -160,8 +172,11 @@ Triangle Wave
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%205%20lab%204%20triangle.png">
 </p>
+How do these show it is integrating?
 
 Circuit Six:
+
+Change the voltage and frequency and note any differences.
 
 Sine Wave
 <p align="center">
@@ -177,7 +192,7 @@ Triangle Wave
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%206%20lab%204%20triangle.png">
 </p>
-
+How do these show it is differentiating?
 ## Discussion Questions:
 
 ### Part One:
