@@ -153,8 +153,10 @@ Oscilloscope Reading of Circuit Three:
 _Circuit Four_:
 
 The input (Vi) and output (Vo) voltages were seen to be the same. 
+
 Vi=12.8V
 Vo=12.8V
+
 This shows that the gain=1 because there is no change between the input and output voltages in this op amp circuit. 
 
 Increase the frequency to find out and record what the frequency limit is for the 741 op amp. 
