@@ -134,6 +134,7 @@ Oscilloscope Reading of Circuit Two:
 | Expected Gain (Calculated) | Actual Gain (Measured) |
 |:---:|---|
 |  40.24 |    8.33 |
+
 Although these values differ from each other, they make sense because 15V is not enough voltage to reach a gain of 40.24 in this circuit.
 
 _Circuit Three_:
