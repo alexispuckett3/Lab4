@@ -106,6 +106,10 @@ Measured Vi VS Vo Values:
 | -9.89  |  9.87   |
 | -8.63  |  8.61   |
 
+| Expected Gain (Calculated) | Actual Gain (Measured) |
+|:---:|---|
+|   |     |
+
 
 Circuit Two:
 
@@ -113,11 +117,19 @@ Circuit Two:
   <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%201%20lab%204.png">
 </p>
 
+| Expected Gain (Calculated) | Actual Gain (Measured) |
+|:---:|---|
+|   |     |
+
 Circuit Three:
 
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%203%20lab%204.png">
 </p>
+
+| Expected Gain (Calculated) | Actual Gain (Measured) |
+|:---:|---|
+|   |     |
 
 ### Part Two:
 
