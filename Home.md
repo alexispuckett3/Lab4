@@ -167,6 +167,7 @@ Oscilloscope Reading of Voltage Follower Circuit:
 </p>
 We can see from the oscilloscope that there is no change between Vi and Vo, the waves overlap. 
 
+
 _Circuit Five_:
 
 We changed the frequency and voltage to see what would happen. As frequency increases, Vo decreases and Vi stays the same around 12.2V. As the frequency decreases, Vo increases and Vi decreases. As the voltage supplied by the voltage source decreases, both Vo and Vi decrease. As the voltage supplied increases, both Vo and Vi increase.
@@ -180,36 +181,40 @@ Sine Wave Oscilloscope Reading:
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%205%20lab%204%20sine.png">
 </p>
+The integral of sin is -cos, which is seen in this image.
 
 Square Wave Oscilloscope Reading:
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%205%20lab%204%20square.png">
 </p>
+The integral of a square is a triangular wave, which is seen here as Vi is a square while Vo is a triangle. 
 
 Triangle Wave Oscilloscope Reading:
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%205%20lab%204%20triangle.png">
 </p>
-
+The integral of a triangle wave is a squiggle/segmented parabolas. We can see here that Vi is a triangular wave which is then integrated into a squiggly wave. 
 
 _Circuit Six_:
-
-Change the voltage and frequency and note any differences.
 
 Sine Wave Oscilloscope Reading:
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%206%20lab%204%20sine.png">
 </p>
+This op amp circuit makes Vo the derivative of Vi. In this image, Vi is a sine wave and Vo is the derivative of sine, cosine. 
 
 Square Wave Oscilloscope Reading:
 <p align="center">
-  <img src="https://github.com/hrma240/Lab-4/blob/main/Circuit%206%20lab%204%20square.png">
+  <img src="">
 </p>
+The derivative of a square wave is an impulse.
 
 Triangle Wave Oscilloscope Reading:
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%206%20lab%204%20triangle.png">
 </p>
+The derivative of a triangular wave is a rectangular wave as seen in the relationship between Vi and Vo. 
+
 How do these show it is differentiating?
 ## Discussion Questions:
 
