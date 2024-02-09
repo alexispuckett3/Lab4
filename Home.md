@@ -223,7 +223,7 @@ An ideal op-amp can output any voltage. Although in a real op-amp, it is limited
 **negative voltage performance?**
 
 
-Yes, the positive voltage performance is equal to the negative voltage performance. 
+Yes, the positive voltage performance is equal to the negative voltage performance. This is because the Op Amp is a dual power supply Op Amp.
 
 ### Part Two:
 
