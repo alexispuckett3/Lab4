@@ -156,21 +156,21 @@ Triangle Wave
 
 ### Part One:
 
-Compare the performance of each amplifier circuit to its expected theoretical performance with
-regard to gain.
+**Compare the performance of each amplifier circuit to its expected theoretical performance with**
+**regard to gain.**
 
-Comment on the limits of op amp circuits with respect to maximum output voltage.
+**Comment on the limits of op amp circuits with respect to maximum output voltage.**
 
-Are the LM741 op amps symmetric i.e. does the positive voltage performance equal the
-negative voltage performance?
+**Are the LM741 op amps symmetric i.e. does the positive voltage performance equal the**
+**negative voltage performance?**
 
 
 Yes, the positive voltage performance is equal to the negative voltage performance. 
 
 ### Part Two:
 
-Did the integrating and differentiating circuits perform the mathematical operations expected?
-Explain
+**Did the integrating and differentiating circuits perform the mathematical operations expected?**
+**Explain**
 
 
 Yes, the integrating and differentiating circuits performed the mathematical operations that we expected. We observed a sin wave when integrating the circuit. This is supported due to the fact that the integral of sine is cosine. When the circuit was differentiated we observed a square graph which is the derivative and is the slope of the waved graph.
