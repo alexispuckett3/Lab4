@@ -63,7 +63,7 @@ Circuit Three: High Gain Inverting Op Amp
 Next. build a high gain inverting op amp on the bread board by using the 1k&Omega; and 1.5M&Omega; resistors. Connect this circuit to the DCPS along with the function generator and oscilloscope to measure and calculate the gain. 
 
 <p align="center">
-  <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%203%20lab%204.png">
 </p>
 
 ### Part Two:
@@ -71,7 +71,7 @@ Next. build a high gain inverting op amp on the bread board by using the 1k&Omeg
 Circuit Four: Voltage Follower
 
 <p align="center">
-  <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%204%20lab%204.png">
 </p>
 
 Circuit Five: Integrating Op Amp
