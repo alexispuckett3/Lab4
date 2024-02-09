@@ -169,6 +169,10 @@ negative voltage performance?
 Did the integrating and differentiating circuits perform the mathematical operations expected?
 Explain
 
+
+Yes, the integrating and differentiating circuits performed the mathematical operations that we expected. We observed a sin wave when integrating the circuit. This is supported due to the fact that the integral of sine is cosine. When the circuit was differentiated we observed a square graph which is the derivative and is the slope of the waved graph.
+
+
 ## Conclusions:
 
 
