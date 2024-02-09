@@ -93,6 +93,19 @@ Circuit Six: Differentiating Op Amp
 
 Circuit One:
 
+Measured Vi VS Vo Values:
+| Vi (Volts) | Vo (Volts)|
+|:---:|---|
+| -12.82 | 12.77   |
+| -13.1  | 13.06   |
+| -13.27 |  13.24  |
+| -13.79 | 13.75   |
+| -14.13 |   14.09 |
+| -11.24 |  11.21  |
+| -10.47 |   10.43 |
+| -9.89  |  9.87   |
+| -8.63  |  8.61   |
+
 
 Circuit Two:
 
