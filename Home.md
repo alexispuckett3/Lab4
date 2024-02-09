@@ -70,21 +70,33 @@ Next. build a high gain inverting op amp on the bread board by using the 1k&Omeg
 
 Circuit Four: Voltage Follower
 
+Build the voltage follower circuit in the bread board pictured below. Connect the circuit to the two DCPS, the function generator, and the oscilloscope. 
+
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%204%20lab%204%20drawing.png">
 </p>
 
+Check to see that the input and output voltage are the same. Then, increase the frequency to see find what the frequency limit is for the 741 op amp. 
+
 Circuit Five: Integrating Op Amp
  
+Next, build the integrating op amp displayed below on the bread board. 
+
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/5-4.png">
 </p>
 
+Connect the circuit to the two DCPS, the function generator, and the oscilloscope. Change the shape of the waves along with the frequency using the function generator to observe what happens. 
+
 Circuit Six: Differentiating Op Amp
+
+Finally, create the differentiating op amp displayed below. 
 
 <p align="center">
   <img src="https://github.com/hrma240/Lab-4/blob/main/6-4.png">
 </p>
+
+Connect the circuit to the two DCPS, the function generator, and the oscilloscope. Once again, change the shape of the waves and frequency to observe what happens to Vo and Vi. 
 
 ## Results:
 
