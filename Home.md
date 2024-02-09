@@ -227,7 +227,7 @@ How do these show it is differentiating?
 **Compare the performance of each amplifier circuit to its expected theoretical performance with**
 **regard to gain.**
 
-Amplifying circuits 1-3 did not meet their expected theoretical performance with regard to gain. Circuit 1 was very close with only a 0.003 difference between the expected gain of 1 and the measured gain of 0.997. However, as the expected gain increased between circuits, the circuits were not able to keep up and meet these gains. Circuits 2 and 3 measured values of gains were lower than their expected values. Circuit 3 has the biggest difference between its expected gain value of 1500 and its measured gain value of 21.969. This is because we were not able to supply enough voltage to this circuit for the output voltage to differ from the input voltage by that degree. 
+Amplifying circuits 1-3 did not meet their expected theoretical performance with regard to gain. Circuit 1 was very close with only a 0.004 difference between the expected gain of 1 and the measured gain of 0.996. However, as the expected gain increased between circuits, the circuits were not able to keep up and meet these gains. Circuits 2 and 3 measured values of gains were lower than their expected values. Circuit 3 has the biggest difference between its expected gain value of 1500 and its measured gain value of 21.969. This is because we were not able to supply enough voltage to this circuit for the output voltage to differ from the input voltage by that degree. 
 
 **Comment on the limits of op amp circuits with respect to maximum output voltage.**
 
