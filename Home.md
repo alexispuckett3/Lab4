@@ -11,10 +11,11 @@ In this lab the goal was to learn the importance and use of operational amplifie
 ## Design/Methods:
 
 For this lab we needed:
-* A bread board
-* Two DC Power supplies (DCPS)
-* A Function Generator
-* An Oscilloscope
+* A bread board 
+* Two DC Power supplies (DCPS): Global Specialties 1403
+* Digital Multi-meter (DMM): Fluke 87
+* A Function Generator: Global Specialties 2001A
+* An Oscilloscope: Tektronix TDS 2012
 * Resistors with resistances of 1k&Omega;, 4.7k&Omega;, 8.2k&Omega;, two 68k&Omega;, 150k&Omega;, 270k&Omega;, 270k&Omega;, 330k&Omega;, and 1.5M&Omega;
 * A capacitor of 0.1&mu;F
 * An LM741 Op Amp
