@@ -213,6 +213,8 @@ How do these show it is differentiating?
 **Compare the performance of each amplifier circuit to its expected theoretical performance with**
 **regard to gain.**
 
+The performance of each amplifier circuit is close to the expected theoretical performance in regard to the gain. The values of the gain for each circuit differed only a small amount. For example, for the first circuit the expected gain was 1 and the measured and calculated gain was .997.
+
 **Comment on the limits of op amp circuits with respect to maximum output voltage.**
 
 An ideal op-amp can output any voltage. Although in a real op-amp, it is limited to what the output can deliver. These limits are usually right around the positive and negative power supply voltages. Output voltage is limited to the maximum and minimum voltage from the power supply. 
