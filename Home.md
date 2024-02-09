@@ -71,7 +71,7 @@ Next. build a high gain inverting op amp on the bread board by using the 1k&Omeg
 Circuit Four: Voltage Follower
 
 <p align="center">
-  <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%204%20lab%204.png">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%204%20lab%204%20drawing.png">
 </p>
 
 Circuit Five: Integrating Op Amp
