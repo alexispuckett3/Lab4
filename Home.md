@@ -124,7 +124,7 @@ Circuit Two:
 Circuit Three:
 
 <p align="center">
-  <img src="https://github.com/hrma240/Lab-4/blob/main/circuit%203%20lab%204.png">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/3-4.png">
 </p>
 
 | Expected Gain (Calculated) | Actual Gain (Measured) |
