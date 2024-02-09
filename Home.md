@@ -119,9 +119,13 @@ Measured Vi VS Vo Values:
 | -9.89  |  9.87   |
 | -8.63  |  8.61   |
 
+<p align="center">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/graph%20for%20lab%204.png">
+</p>
+
 | Expected Gain (Calculated) | Actual Gain (Measured) |
 |:---:|---|
-|  1 |   0.997  |
+|  1 |   0.996  |
 
 
 _Circuit Two_:
@@ -205,7 +209,7 @@ This op amp circuit makes Vo the derivative of Vi. In this image, Vi is a sine w
 
 Square Wave Oscilloscope Reading:
 <p align="center">
-  <img src="">
+  <img src="https://github.com/hrma240/Lab-4/blob/main/c6-square.png">
 </p>
 The derivative of a square wave is an impulse.
 
